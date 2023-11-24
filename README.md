@@ -1,2 +1,2 @@
 # My-Coding-Projects
-** Hello! These are some of my coding projects! **
+**Hello! These are some of my coding projects!**
