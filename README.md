@@ -1,5 +1,5 @@
-# My-Coding-Projects
+# Exercises
 
 **Hello! My name is Naomi!**
 
-**This is where I keep some of programming projects and exercises.**
+**This is where I keep some of my programming exercises.**
